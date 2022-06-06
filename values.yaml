@@ -114,7 +114,7 @@ postgresql:
   image:
     registry: docker.io
     repository: bitnami/postgresql
-    tag: 9.6
+    tag: latest
   postgresqlUsername: postgres
   postgresqlPassword: awx
   postgresqlDatabase: awx
